@@ -14,8 +14,8 @@ Preview: https://pirci.github.io/buttons/
 ## What I Learned:
 
 - Adding a class attribute (.last) to the HTML element learned and applied
-- Percentage width was used to create a responsive page
-- (button) element learned and applied
+- Percentage value (width) was used to create a responsive page
+- HTML (button) element learned and applied
 
 ## Possible Improvements
 
