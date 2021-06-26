@@ -1,0 +1,22 @@
+body {
+  display: block;
+  margin: 8px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+button {
+  width: 30%;
+  font-size: 50px;
+  border: solid 30px darkslategray;
+  background-color: lightgrey;
+  border-radius: 10px;
+  height: 200px;
+}
+
+.last {
+  width: 100%;
+  color: deeppink;
+  font-weight: bold;
+  text-align: right;
+  font-style: italic;
+}
