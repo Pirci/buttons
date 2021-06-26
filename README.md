@@ -8,8 +8,8 @@ From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 
 Preview: https://pirci.github.io/buttons/
 
-<img width="1268" alt="Screenshot 2021-06-26 at 17 38 14" src="<img width="1679" alt="Screenshot 2021-06-26 at 17 57 52" src="https://user-images.githubusercontent.com/43238947/123518856-26e00f00-d6a8-11eb-94da-05f2759d8474.png">
-">
+<img width="1679" alt="Screenshot 2021-06-26 at 17 57 52" src="https://user-images.githubusercontent.com/43238947/123518998-f351b480-d6a8-11eb-89e5-474487ffed2f.png">
+
 
 ## What I Learned:
 
