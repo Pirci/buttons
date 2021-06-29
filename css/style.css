@@ -1,8 +1,16 @@
+/*
+********** Body Defult Style **********
+*/
+
 body {
   display: block;
   margin: 8px;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
+
+/*
+********** Buttons Style **********
+*/
 
 button {
   width: 30%;
