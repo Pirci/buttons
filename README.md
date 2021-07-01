@@ -1,6 +1,6 @@
 ### Seytech Fullstack Software Developer Bootcamp
 
-> HTML & CSS first #2 Homework Project (Buttons).
+> HTML & CSS #2nd Homework Project (Buttons).
 
 From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
 
