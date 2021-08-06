@@ -1,9 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Buttons Project
 
-> HTML & CSS #2nd Homework Project (Buttons).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
-
+> HTML & CSS Buttons Project
 ## Live Demo
 
 Preview: https://pirci.github.io/buttons/
